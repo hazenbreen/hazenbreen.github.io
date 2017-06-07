@@ -1,0 +1,27 @@
+/*
+Stylesheet for Hazen Breen Portfolio
+
+by: Hazen Breen
+*/
+
+body, h1, h2, h3, h4 {
+	font-family:'Roboto';
+}
+
+#name {
+	text-align: center;
+}
+
+.navigation li {
+	display: inline-flex;
+	text-decoration-line: underline;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+/* photo formatting */
+#photo {
+	position: relative;
+	width: 100%;
+	text-align: center;
+}
