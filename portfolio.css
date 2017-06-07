@@ -14,14 +14,39 @@ body, h1, h2, h3, h4 {
 
 .navigation li {
 	display: inline-flex;
-	text-decoration-line: underline;
+	text-decoration: underline;
 	padding-left: 50px;
 	padding-right: 50px;
 }
 
-/* photo formatting */
+/* photo style */
 #photo {
 	position: relative;
-	width: 100%;
 	text-align: center;
 }
+
+/* resume style */
+#resume {
+	position: relative;
+	width: 100%;
+	max-width: 960px;
+	margin: 50px auto;
+	text-align: left;
+}
+
+.resume-title {
+	font-size: 19px;
+	font-weight: bold;
+}
+
+.resume li {
+	position: relative;
+	line-height: 22px;
+	width: 100%;
+	max-width: 960px;
+	text-align: left;
+}
+
+
+
+
