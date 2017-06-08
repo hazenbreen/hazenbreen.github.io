@@ -8,29 +8,29 @@ body, h1, h2, h3, h4 {
 	font-family:'Roboto';
 }
 
-#name {
+.name {
 	text-align: center;
 }
 
 .navigation li {
-	display: inline-flex;
 	text-decoration: underline;
-	padding-left: 50px;
-	padding-right: 50px;
+	text-align: center;
+	list-style-type: none;
 }
 
 /* photo style */
-#photo {
+.photo {
 	position: relative;
+	width: 100%;
 	text-align: center;
 }
 
 /* resume style */
-#resume {
+.resume {
 	position: relative;
 	width: 100%;
-	max-width: 960px;
-	margin: 50px auto;
+	max-width: 800px;
+	margin: 50px;
 	text-align: left;
 }
 
@@ -43,10 +43,20 @@ body, h1, h2, h3, h4 {
 	position: relative;
 	line-height: 22px;
 	width: 100%;
-	max-width: 960px;
+	max-width: 800px;
 	text-align: left;
 }
 
+/* text style */
+.main-text {
+	position: relative;
+	width: 100%;
+	max-width: 800px;
+}
 
+
+.sub-text {
+	margin-left: 40px;
+}
 
 
