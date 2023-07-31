@@ -1,0 +1,113 @@
+{
+    "basic_info": {
+      "description_header": "Hi! 👋",
+      "description": "I'm Hazen.  I'm a Software Engineer and UX Designer with 5 years professional experience. I've developed with technologies like C++, Django, React, and AWS and have experience using the Adobe Creative Suite, Figma, and Balsamiq to explore UX solutions."
+    },
+    "projects": [
+      {
+        "title": "Animal Shelter",
+        "startDate": "2020",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "fab devicon-python-plain experience-icon",
+            "name": "Python"
+          },
+          {
+            "class": "fab devicon-cplusplus-line experience-icon",
+            "name": "C++"
+          }
+        ]
+      },
+      {
+        "title": "Photography",
+        "startDate": "2018",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "PaymentWorks",
+        "title": "Full Stack Software Engineer",
+        "years": "February 2022 - May 2023",
+        "mainTech": [
+          "Django"
+        ],
+        "mainTechIcon" :"fab devicon-python-plain experience-icon",
+        "technologies": [
+          "Django",
+          "Python",
+          "Backbone",
+          "Marionette",
+          "React",
+          "MySQL",
+          "AWS",
+          "Git",
+          "Celery",
+          "Jenkins"
+        ]
+      },
+      {
+        "company": "Eze Software",
+        "title": "Software Engineer",
+        "years": "August 2018 - Jaunuary 2022",
+        "mainTech": [
+          "C++"
+        ],
+        "mainTechIcon" :"fab devicon-cplusplus-line experience-icon",
+        "technologies": [
+          "C++",
+          "Node",
+          "React",
+          "Docker",
+          "Balsamiq",
+          "Jenkins",
+          "Bamboo"
+        ]
+      }
+    ]
+  }
