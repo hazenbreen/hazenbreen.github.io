@@ -1,0 +1,70 @@
+{
+    "basic_info": {
+      "name": "Hazen Breen",
+      "titles": [ "Full Stack Engineer", "UX Designer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "fab fa-github"
+        }
+      ],
+      "image": "headshot.jpeg"
+    },
+    "technologies": {
+      "icons": [
+        {
+          "name": "Python",
+          "class": "devicon-python-plain"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain"
+        },
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain"
+        },
+        {
+          "name": "C",
+          "class": "devicon-c-plain"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain"
+        },
+        {
+          "name": "Qt",
+          "class": "devicon-qt-plain"
+        },
+        {
+          "name": "MatLab",
+          "class": "devicon-matlab-plain"
+        },
+        {
+          "name": "PhotoShop",
+          "class": "devicon-photoshop-plain"
+        },
+        {
+          "name": "Illustrator",
+          "class": "devicon-illustrator-plain"
+        }
+      ]
+    }
+  }
